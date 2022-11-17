@@ -1,0 +1,24 @@
+{
+  "name": "odyssey-lift-off-part1",
+  "version": "1.0.0",
+  "description": "Welcome to the companion app of Odyssey Lift-off I! You can [find the course lessons and instructions on Odyssey](https://odyssey.apollographql.com/lift-off-part1), Apollo's learning platform.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apollographql/odyssey-lift-off-part1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/apollographql/odyssey-lift-off-part1/issues"
+  },
+  "homepage": "https://github.com/apollographql/odyssey-lift-off-part1#readme",
+  "dependencies": {
+    "apollo-server": "^3.11.1",
+    "graphql": "^16.6.0"
+  }
+}
